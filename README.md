@@ -6,18 +6,18 @@ A Simple Download and Execute Ducky Script for Linux Platforms
 
 * Because
 
-# What does he execute ?
+# What does it execute ?
 
-* A downloaded bash script 
+* A downloaded bash script
 
-# How does he do ?
+# How does it do ?
 
-* He just launch the terminal, use wget (most common of all linux) for download the script, and just execute it
+* It just launch the terminal, use wget (most common of all linux) for download the script, and just execute it
 
 # Warning
 
-Is NOT compatible with all Linux Platforms, the terminal is launch differently for each Linux Systems. 
-If you have some information about the target system, inform you about the way to start the terminal for keyboard.
+It's NOT compatible with all Linux Platforms, the terminal is launched differently for each Linux Systems. 
+If you have some information about the target system, inform you you about the way to start the terminal from keyboard.
 
 * General Desktop          : GUI OR WINDOWS + terminal (Search shell in app list) 
 * General Server Shell     : Is already in terminal state
